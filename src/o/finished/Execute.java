@@ -1,6 +1,6 @@
-package src.o.before;
+package o.finished;
 
-public class Execute extends TypeEmployee implements Worker{
+public class Execute extends TypeEmploye implements Worker{
     @Override
     public void setRole() {
         this.isManager = true;

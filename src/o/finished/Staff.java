@@ -1,6 +1,5 @@
-package src.o.before;
-
-public class Staff extends TypeEmployee {
+package o.finished;
+public class Staff extends TypeEmploye {
 
     String firstName;
     String lastName;

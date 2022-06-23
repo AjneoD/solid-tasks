@@ -1,4 +1,4 @@
-package src.o.before;
+package o.finished;
 
 public class TypeEmploye {
     boolean isManager =false;

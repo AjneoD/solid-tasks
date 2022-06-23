@@ -1,6 +1,5 @@
-package src.o.before;
-
-public class Manager extends TypeEmployee implements Worker{
+package o.finished;
+public class Manager extends TypeEmploye implements Worker{
 
     @Override
     public void setRole() {

@@ -1,4 +1,4 @@
-package o.before;
+package o.finished;
 
 public class Applicant {
     String firstName;

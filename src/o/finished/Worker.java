@@ -1,2 +1,4 @@
-package src.o.finished;public interface Worker {
+package o.finished;
+
+public interface Worker {
 }
